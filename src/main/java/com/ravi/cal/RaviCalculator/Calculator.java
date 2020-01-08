@@ -25,7 +25,7 @@ public class Calculator  {
 
 	public long addFucn(long first, long second){
 		
-	       return second+first;
+	       return second/first;
 
 	}
 	
